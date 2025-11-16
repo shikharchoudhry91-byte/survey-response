@@ -18,3 +18,8 @@
 - Sentiment breakdown of feedback
 - Distribution charts
 
+Assumptions & methodology:
+- Synthetic data used for demo.
+- NPS calculated using promoters >=9 and detractors <=6.
+- Sentiment tagging is rule-based (keywords), not ML.
+
