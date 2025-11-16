@@ -1,0 +1,501 @@
+respondent_id,age,gender,brand_used,visit_frequency,last_purchase_amount,satisfaction_rating,nps,would_recommend,feedback
+1,56,Male,BrandC,Monthly,754.0,4,1,No,"Good service, will visit again."
+2,46,Female,BrandC,Weekly,722.0,3,7,Maybe,Delivery took too long and packaging was poor.
+3,32,Female,BrandB,Weekly,2203.0,3,4,No,Product quality is okay but pricing is high.
+4,60,Male,BrandA,Occasionally,1135.0,4,0,No,Overall experience was decent.
+5,25,Prefer not to say,BrandB,Daily,783.0,2,2,No,
+6,38,Female,BrandB,Occasionally,1175.0,2,9,Yes,"Good service, will visit again."
+7,56,Male,BrandA,Occasionally,1522.0,5,7,Maybe,
+8,36,Male,BrandA,Monthly,1231.0,5,3,No,Had an issue with billing but resolved quickly.
+9,40,Male,BrandC,Monthly,1077.0,3,6,No,
+10,28,Male,BrandA,Occasionally,810.0,3,9,Yes,Overall experience was decent.
+11,28,Male,BrandA,Weekly,803.0,4,1,No,"Nice collection, but stock was low for popular sizes."
+12,41,Female,BrandA,Weekly,841.0,3,6,No,"Good service, will visit again."
+13,53,Male,BrandA,Weekly,1403.0,1,4,No,"Loved the store, staff very helpful."
+14,57,Male,BrandC,Occasionally,603.0,2,4,No,Not satisfied with customer support.
+15,41,Female,BrandB,Daily,1436.0,4,5,No,Delivery took too long and packaging was poor.
+16,20,Male,BrandB,Monthly,2048.0,4,8,Maybe,Not satisfied with customer support.
+17,39,Female,BrandA,Occasionally,1395.0,1,5,No,
+18,19,Male,BrandA,Occasionally,978.0,2,7,Maybe,Not satisfied with customer support.
+19,41,Male,BrandA,Monthly,421.0,2,6,No,Had an issue with billing but resolved quickly.
+20,61,Female,BrandA,Weekly,2147.0,4,8,Maybe,"Good service, will visit again."
+21,47,Female,BrandA,Occasionally,498.0,1,3,No,Overall experience was decent.
+22,55,Female,BrandB,Monthly,1709.0,2,1,No,
+23,19,Female,BrandA,Weekly,1583.0,4,6,No,Product quality is okay but pricing is high.
+24,38,Female,BrandB,Weekly,1058.0,2,5,No,Had an issue with billing but resolved quickly.
+25,50,Male,BrandA,Occasionally,1042.0,4,0,No,Not satisfied with customer support.
+26,29,Male,BrandA,Monthly,99.0,2,10,Yes,Product quality is okay but pricing is high.
+27,39,Female,BrandA,Occasionally,1398.0,1,8,Maybe,
+28,61,Female,BrandC,Occasionally,1572.0,2,8,Maybe,"Happy with the purchase, value for money."
+29,42,Prefer not to say,BrandC,Monthly,547.0,4,1,No,Delivery took too long and packaging was poor.
+30,44,Male,BrandC,Monthly,1107.0,5,2,No,Found better prices elsewhere.
+31,59,Male,BrandA,Monthly,1223.0,5,4,No,Not satisfied with customer support.
+32,45,Female,BrandA,Monthly,1551.0,3,4,No,Not satisfied with customer support.
+33,33,Male,BrandB,Monthly,1202.0,4,0,No,"Happy with the purchase, value for money."
+34,32,Female,BrandA,Occasionally,224.0,2,7,Maybe,Product quality is okay but pricing is high.
+35,64,Female,BrandC,Monthly,882.0,3,7,Maybe,"Loved the store, staff very helpful."
+36,61,Male,BrandA,Occasionally,1335.0,5,3,No,Delivery took too long and packaging was poor.
+37,20,Female,BrandA,Monthly,1705.0,1,6,No,Found better prices elsewhere.
+38,54,Female,BrandA,Monthly,829.0,1,10,Yes,Overall experience was decent.
+39,24,Male,BrandA,Monthly,2513.0,2,9,Yes,Not satisfied with customer support.
+40,38,Female,BrandB,Monthly,63.0,1,2,No,"Good service, will visit again."
+41,26,Female,BrandA,Occasionally,862.0,2,5,No,"Good service, will visit again."
+42,56,Female,BrandA,Weekly,1150.0,4,9,Yes,Found better prices elsewhere.
+43,35,Male,BrandA,Monthly,1080.0,3,9,Yes,Delivery took too long and packaging was poor.
+44,21,Female,BrandA,Weekly,461.0,5,8,Maybe,Had an issue with billing but resolved quickly.
+45,42,Male,BrandB,Monthly,1469.0,5,0,No,Not satisfied with customer support.
+46,31,Male,BrandC,Monthly,1423.0,3,4,No,"Nice collection, but stock was low for popular sizes."
+47,26,Female,BrandC,Monthly,1229.0,3,3,No,"Nice collection, but stock was low for popular sizes."
+48,43,Male,BrandB,Occasionally,1399.0,3,7,Maybe,
+49,19,Male,BrandA,Monthly,946.0,4,10,Yes,
+50,37,Female,BrandB,Occasionally,230.0,3,0,No,Overall experience was decent.
+51,45,Female,BrandA,Monthly,,4,8,Maybe,Had an issue with billing but resolved quickly.
+52,64,,BrandA,Monthly,1294.0,3,5,No,
+53,24,Female,BrandC,Weekly,1298.0,4,3,No,Delivery took too long and packaging was poor.
+54,61,Male,BrandA,Weekly,1225.0,3,8,Maybe,"Loved the store, staff very helpful."
+55,25,Male,BrandC,Monthly,1529.0,3,10,Yes,Product quality is okay but pricing is high.
+56,64,Male,BrandA,Monthly,851.0,5,4,No,Product quality is okay but pricing is high.
+57,52,Female,BrandB,Daily,,4,4,No,"Loved the store, staff very helpful."
+58,31,Female,BrandB,Weekly,1543.0,2,4,No,Found better prices elsewhere.
+59,34,,BrandC,Weekly,1149.0,5,0,No,Found better prices elsewhere.
+60,53,Female,BrandB,Occasionally,454.0,3,0,No,"Nice collection, but stock was low for popular sizes."
+61,57,Male,BrandB,Monthly,623.0,5,7,Maybe,Overall experience was decent.
+62,21,Female,BrandA,Monthly,1699.0,4,7,Maybe,"Good service, will visit again."
+63,19,Male,BrandB,Weekly,2035.0,3,5,No,Product quality is okay but pricing is high.
+64,23,Female,BrandA,Monthly,1905.0,1,10,Yes,Overall experience was decent.
+65,59,Male,BrandB,Weekly,1339.0,3,3,No,
+66,21,Female,BrandB,Weekly,478.0,4,1,No,
+67,46,Male,BrandB,Monthly,1196.0,4,1,No,"Nice collection, but stock was low for popular sizes."
+68,35,Male,BrandA,Daily,2137.0,3,8,Maybe,
+69,43,Male,BrandA,Daily,1571.0,2,4,No,"Happy with the purchase, value for money."
+70,61,Female,BrandB,Weekly,1076.0,5,3,No,"Loved the store, staff very helpful."
+71,51,Female,BrandA,Daily,1577.0,5,9,Yes,Product quality is okay but pricing is high.
+72,27,Male,BrandA,Weekly,438.0,4,0,No,"Happy with the purchase, value for money."
+73,53,Male,BrandA,Monthly,783.0,2,6,No,Overall experience was decent.
+74,31,Female,BrandC,Occasionally,549.0,3,2,No,"Loved the store, staff very helpful."
+75,48,Male,BrandB,Monthly,1482.0,1,5,No,"Loved the store, staff very helpful."
+76,32,Female,BrandA,Monthly,1628.0,5,4,No,Overall experience was decent.
+77,25,Female,BrandA,Weekly,1108.0,2,4,No,Had an issue with billing but resolved quickly.
+78,31,Male,BrandA,Occasionally,676.0,4,10,Yes,"Good service, will visit again."
+79,40,Male,BrandB,Monthly,1188.0,3,4,No,
+80,57,Prefer not to say,BrandB,Weekly,908.0,4,0,No,"Happy with the purchase, value for money."
+81,38,Male,BrandA,Monthly,722.0,4,0,No,Delivery took too long and packaging was poor.
+82,33,Male,BrandA,Weekly,1403.0,5,2,No,Product quality is okay but pricing is high.
+83,62,Female,BrandA,Monthly,745.0,2,9,Yes,
+84,35,Female,BrandB,Monthly,260.0,1,3,No,Product quality is okay but pricing is high.
+85,64,Prefer not to say,BrandB,Occasionally,394.0,2,4,No,
+86,41,Female,BrandA,Monthly,238.0,5,1,No,"Loved the store, staff very helpful."
+87,43,Male,BrandA,Occasionally,1349.0,5,7,Maybe,Overall experience was decent.
+88,42,Male,BrandA,Occasionally,1290.0,4,10,Yes,Overall experience was decent.
+89,62,Female,BrandC,Weekly,1260.0,4,10,Yes,Found better prices elsewhere.
+90,58,Female,BrandA,Weekly,1553.0,4,1,No,
+91,46,Male,BrandB,Monthly,1915.0,2,8,Maybe,Delivery took too long and packaging was poor.
+92,32,Female,BrandB,Monthly,845.0,5,1,No,Found better prices elsewhere.
+93,62,Male,BrandA,Monthly,1444.0,3,8,Maybe,Not satisfied with customer support.
+94,18,Female,BrandA,Occasionally,252.0,3,6,No,Overall experience was decent.
+95,42,Male,BrandA,Occasionally,2027.0,4,7,Maybe,Delivery took too long and packaging was poor.
+96,24,Male,BrandB,Monthly,453.0,1,10,Yes,Not satisfied with customer support.
+97,26,Male,BrandB,Monthly,774.0,2,1,No,
+98,41,Male,BrandB,Occasionally,841.0,4,6,No,Had an issue with billing but resolved quickly.
+99,18,Male,BrandB,Occasionally,284.0,1,5,No,Product quality is okay but pricing is high.
+100,61,Female,BrandA,Occasionally,1220.0,4,3,No,"Good service, will visit again."
+101,25,Female,BrandC,Daily,1328.0,2,6,No,"Good service, will visit again."
+102,41,Female,BrandB,Monthly,1086.0,3,3,No,
+103,28,Prefer not to say,BrandA,Weekly,276.0,3,1,No,"Happy with the purchase, value for money."
+104,34,Male,BrandC,Weekly,2390.0,3,9,Yes,
+105,25,Male,BrandB,Weekly,1530.0,4,6,No,Had an issue with billing but resolved quickly.
+106,52,Female,BrandB,Monthly,2781.0,3,7,Maybe,Delivery took too long and packaging was poor.
+107,52,Male,BrandB,Monthly,717.0,4,1,No,Found better prices elsewhere.
+108,50,Prefer not to say,BrandC,Weekly,1775.0,3,4,No,Product quality is okay but pricing is high.
+109,22,Male,BrandB,Monthly,1668.0,4,0,No,Not satisfied with customer support.
+110,59,,BrandA,Monthly,1026.0,5,6,No,"Nice collection, but stock was low for popular sizes."
+111,56,Male,BrandA,Monthly,2047.0,4,7,Maybe,"Good service, will visit again."
+112,58,Female,BrandC,Weekly,957.0,2,5,No,Product quality is okay but pricing is high.
+113,45,Female,BrandA,Monthly,983.0,1,4,No,
+114,24,Prefer not to say,BrandA,Occasionally,933.0,3,5,No,Product quality is okay but pricing is high.
+115,26,Male,BrandA,Weekly,1445.0,4,1,No,Delivery took too long and packaging was poor.
+116,25,Female,BrandA,Weekly,405.0,1,0,No,"Loved the store, staff very helpful."
+117,29,Prefer not to say,BrandB,Monthly,870.0,3,6,No,"Happy with the purchase, value for money."
+118,51,Female,BrandC,Occasionally,584.0,4,6,No,Product quality is okay but pricing is high.
+119,50,Female,BrandA,Monthly,980.0,3,9,Yes,Overall experience was decent.
+120,40,Female,BrandA,Monthly,1466.0,4,10,Yes,
+121,41,Male,BrandA,Monthly,1207.0,2,9,Yes,Overall experience was decent.
+122,54,Female,BrandC,Monthly,1626.0,1,1,No,Product quality is okay but pricing is high.
+123,52,Female,BrandB,Daily,1959.0,4,1,No,Delivery took too long and packaging was poor.
+124,61,Female,BrandA,Monthly,979.0,3,0,No,"Nice collection, but stock was low for popular sizes."
+125,57,Male,BrandC,Occasionally,913.0,4,9,Yes,Found better prices elsewhere.
+126,39,Male,BrandC,Monthly,,3,7,Maybe,"Loved the store, staff very helpful."
+127,44,Female,BrandC,Occasionally,1822.0,2,7,Maybe,Found better prices elsewhere.
+128,52,Female,BrandC,Occasionally,1644.0,5,0,No,"Nice collection, but stock was low for popular sizes."
+129,18,Male,BrandA,Weekly,629.0,4,10,Yes,Overall experience was decent.
+130,52,Female,BrandB,Occasionally,1454.0,4,7,Maybe,"Nice collection, but stock was low for popular sizes."
+131,54,Male,BrandA,Weekly,1266.0,3,8,Maybe,"Happy with the purchase, value for money."
+132,64,Male,BrandC,Monthly,1832.0,4,3,No,"Good service, will visit again."
+133,31,Male,BrandB,Weekly,856.0,3,0,No,Overall experience was decent.
+134,20,Male,BrandB,Daily,200.0,1,0,No,
+135,18,Female,BrandB,Monthly,1614.0,5,2,No,"Good service, will visit again."
+136,22,Male,BrandA,Weekly,385.0,2,4,No,Overall experience was decent.
+137,43,Prefer not to say,BrandB,Monthly,761.0,5,4,No,Overall experience was decent.
+138,31,Prefer not to say,BrandC,Monthly,586.0,3,8,Maybe,Overall experience was decent.
+139,56,Female,BrandC,Daily,582.0,2,9,Yes,
+140,44,Female,BrandA,Weekly,751.0,4,1,No,Had an issue with billing but resolved quickly.
+141,26,Male,BrandA,Monthly,1930.0,5,1,No,
+142,32,Female,BrandA,Monthly,1692.0,4,5,No,Found better prices elsewhere.
+143,32,Female,BrandB,Occasionally,,5,8,Maybe,
+144,43,Male,BrandC,Monthly,1880.0,4,0,No,Delivery took too long and packaging was poor.
+145,59,Female,BrandA,Occasionally,563.0,4,8,Maybe,"Good service, will visit again."
+146,30,Female,BrandB,Monthly,481.0,5,8,Maybe,Found better prices elsewhere.
+147,49,Female,BrandC,Monthly,,2,8,Maybe,Had an issue with billing but resolved quickly.
+148,56,Female,BrandB,Monthly,1548.0,3,4,No,"Happy with the purchase, value for money."
+149,49,Female,BrandB,Weekly,924.0,2,8,Maybe,Not satisfied with customer support.
+150,21,Male,BrandB,Monthly,519.0,5,10,Yes,Found better prices elsewhere.
+151,47,Female,BrandB,Occasionally,2076.0,5,3,No,
+152,54,Female,BrandA,Monthly,168.0,1,1,No,"Nice collection, but stock was low for popular sizes."
+153,40,Male,BrandB,Occasionally,841.0,4,5,No,Product quality is okay but pricing is high.
+154,56,Male,BrandB,Occasionally,1337.0,5,3,No,
+155,62,Male,BrandC,Occasionally,2281.0,2,5,No,Had an issue with billing but resolved quickly.
+156,32,Female,BrandB,Occasionally,1430.0,4,2,No,Product quality is okay but pricing is high.
+157,60,Prefer not to say,BrandB,Monthly,1488.0,5,5,No,Overall experience was decent.
+158,46,Male,BrandA,Monthly,858.0,1,1,No,Not satisfied with customer support.
+159,53,Female,BrandA,Monthly,,4,1,No,Delivery took too long and packaging was poor.
+160,30,Male,BrandA,Monthly,1263.0,3,8,Maybe,"Loved the store, staff very helpful."
+161,49,Prefer not to say,BrandA,Monthly,247.0,5,6,No,Overall experience was decent.
+162,24,Female,BrandB,Occasionally,1676.0,5,2,No,Had an issue with billing but resolved quickly.
+163,39,Female,BrandC,Monthly,1782.0,5,10,Yes,Overall experience was decent.
+164,45,Male,BrandA,Monthly,1682.0,3,0,No,
+165,19,Male,BrandA,Weekly,1220.0,5,7,Maybe,"Happy with the purchase, value for money."
+166,59,Male,BrandC,Monthly,626.0,5,5,No,Product quality is okay but pricing is high.
+167,62,Male,BrandA,Weekly,236.0,3,6,No,"Loved the store, staff very helpful."
+168,23,Female,BrandB,Occasionally,1294.0,5,8,Maybe,Product quality is okay but pricing is high.
+169,45,Female,BrandB,Monthly,1849.0,1,4,No,"Loved the store, staff very helpful."
+170,45,Prefer not to say,BrandB,Weekly,1797.0,4,0,No,Had an issue with billing but resolved quickly.
+171,61,Prefer not to say,BrandA,Daily,1690.0,2,9,Yes,Not satisfied with customer support.
+172,61,Female,BrandA,Monthly,1155.0,2,6,No,"Happy with the purchase, value for money."
+173,37,Female,BrandB,Monthly,1852.0,1,4,No,"Happy with the purchase, value for money."
+174,47,Female,BrandB,Monthly,1754.0,4,2,No,"Good service, will visit again."
+175,28,Female,BrandA,Weekly,946.0,3,8,Maybe,
+176,45,Male,BrandB,Monthly,1606.0,4,0,No,"Happy with the purchase, value for money."
+177,42,Male,BrandA,Monthly,878.0,1,0,No,
+178,56,Male,BrandB,Monthly,1524.0,3,0,No,"Loved the store, staff very helpful."
+179,50,Female,BrandA,Monthly,421.0,4,2,No,"Happy with the purchase, value for money."
+180,18,Female,BrandC,Monthly,467.0,4,5,No,"Nice collection, but stock was low for popular sizes."
+181,44,Male,BrandA,Weekly,1835.0,3,9,Yes,Found better prices elsewhere.
+182,30,Female,BrandA,Occasionally,1763.0,4,10,Yes,Product quality is okay but pricing is high.
+183,58,Female,BrandA,Monthly,1580.0,5,2,No,
+184,20,Male,BrandA,Monthly,1253.0,4,7,Maybe,"Loved the store, staff very helpful."
+185,56,Male,BrandC,Weekly,285.0,2,9,Yes,Not satisfied with customer support.
+186,23,Female,BrandC,Monthly,,1,1,No,"Loved the store, staff very helpful."
+187,25,Female,BrandA,Daily,1473.0,5,8,Maybe,"Good service, will visit again."
+188,44,Female,BrandA,Monthly,879.0,1,2,No,"Good service, will visit again."
+189,26,Female,BrandB,Occasionally,773.0,5,4,No,Delivery took too long and packaging was poor.
+190,54,Female,BrandC,Monthly,2067.0,4,9,Yes,Product quality is okay but pricing is high.
+191,50,Female,BrandB,Daily,,5,7,Maybe,Overall experience was decent.
+192,59,Female,BrandA,Daily,1473.0,4,1,No,Found better prices elsewhere.
+193,61,Female,BrandA,Monthly,1664.0,5,5,No,"Loved the store, staff very helpful."
+194,41,Male,BrandB,Weekly,599.0,3,4,No,Delivery took too long and packaging was poor.
+195,32,Male,BrandA,Daily,1316.0,4,9,Yes,
+196,49,Male,BrandB,Occasionally,1992.0,3,8,Maybe,"Good service, will visit again."
+197,49,Female,BrandA,Monthly,2292.0,3,4,No,Not satisfied with customer support.
+198,41,Female,BrandB,Weekly,1224.0,4,1,No,Found better prices elsewhere.
+199,58,Female,BrandA,Occasionally,1057.0,5,4,No,Delivery took too long and packaging was poor.
+200,29,Male,BrandB,Weekly,1361.0,5,3,No,Product quality is okay but pricing is high.
+201,56,Male,BrandA,Occasionally,1346.0,4,10,Yes,"Good service, will visit again."
+202,19,Male,BrandB,Monthly,2032.0,3,6,No,Delivery took too long and packaging was poor.
+203,20,Male,BrandA,Occasionally,602.0,3,5,No,"Nice collection, but stock was low for popular sizes."
+204,54,Female,BrandB,Monthly,1032.0,4,1,No,Delivery took too long and packaging was poor.
+205,34,Male,BrandB,Occasionally,530.0,2,10,Yes,Delivery took too long and packaging was poor.
+206,19,Male,BrandB,Occasionally,593.0,2,10,Yes,"Happy with the purchase, value for money."
+207,19,Female,BrandB,Weekly,1426.0,3,4,No,"Happy with the purchase, value for money."
+208,45,Male,BrandB,Occasionally,1686.0,3,6,No,Overall experience was decent.
+209,40,Female,BrandC,Monthly,810.0,3,10,Yes,Overall experience was decent.
+210,54,Female,BrandA,Monthly,1663.0,2,6,No,"Good service, will visit again."
+211,49,Male,BrandC,Monthly,1867.0,1,4,No,
+212,50,Female,BrandA,Monthly,2361.0,1,8,Maybe,"Loved the store, staff very helpful."
+213,18,Female,BrandA,Weekly,1242.0,5,3,No,"Happy with the purchase, value for money."
+214,36,Female,BrandA,Monthly,816.0,3,10,Yes,
+215,19,Male,BrandA,Monthly,599.0,3,2,No,Not satisfied with customer support.
+216,61,Female,BrandB,Occasionally,539.0,4,3,No,Not satisfied with customer support.
+217,43,Female,BrandB,Occasionally,1950.0,2,4,No,Overall experience was decent.
+218,49,Male,BrandB,Monthly,291.0,5,5,No,
+219,23,Male,BrandB,Monthly,1931.0,4,2,No,Delivery took too long and packaging was poor.
+220,49,Prefer not to say,BrandA,Weekly,679.0,1,1,No,Found better prices elsewhere.
+221,21,Female,BrandA,Weekly,789.0,3,3,No,
+222,28,Male,BrandA,Weekly,1109.0,5,4,No,Overall experience was decent.
+223,34,Female,BrandA,Monthly,778.0,5,3,No,Delivery took too long and packaging was poor.
+224,55,Male,BrandA,Weekly,1759.0,3,10,Yes,Product quality is okay but pricing is high.
+225,41,Male,BrandA,Occasionally,2288.0,4,2,No,Not satisfied with customer support.
+226,22,Male,BrandB,Monthly,806.0,2,7,Maybe,Product quality is okay but pricing is high.
+227,51,Male,BrandB,Monthly,941.0,5,9,Yes,"Happy with the purchase, value for money."
+228,23,Male,BrandC,Monthly,1102.0,2,3,No,Found better prices elsewhere.
+229,39,Male,BrandC,Weekly,1525.0,5,1,No,"Happy with the purchase, value for money."
+230,28,Female,BrandB,Monthly,1108.0,4,1,No,Delivery took too long and packaging was poor.
+231,33,Male,BrandA,Monthly,2032.0,4,0,No,Found better prices elsewhere.
+232,50,Male,BrandB,Monthly,1888.0,4,3,No,"Loved the store, staff very helpful."
+233,26,Female,BrandB,Monthly,489.0,2,9,Yes,"Happy with the purchase, value for money."
+234,23,Male,BrandA,Occasionally,1513.0,2,8,Maybe,"Good service, will visit again."
+235,33,Female,BrandA,Occasionally,2112.0,2,10,Yes,Delivery took too long and packaging was poor.
+236,46,Male,BrandC,Monthly,903.0,2,6,No,
+237,20,Male,BrandA,Monthly,1023.0,4,9,Yes,Not satisfied with customer support.
+238,37,Male,BrandB,Monthly,883.0,3,6,No,"Nice collection, but stock was low for popular sizes."
+239,53,Male,BrandB,Weekly,896.0,1,6,No,
+240,36,Male,BrandA,Monthly,199.0,5,7,Maybe,"Loved the store, staff very helpful."
+241,43,Male,BrandA,Daily,403.0,5,0,No,"Happy with the purchase, value for money."
+242,20,Male,BrandA,Monthly,1246.0,5,9,Yes,Had an issue with billing but resolved quickly.
+243,36,Male,BrandA,Monthly,2108.0,5,9,Yes,Delivery took too long and packaging was poor.
+244,37,Male,BrandA,Weekly,832.0,2,7,Maybe,Delivery took too long and packaging was poor.
+245,49,Male,BrandC,Occasionally,814.0,3,3,No,"Loved the store, staff very helpful."
+246,24,Male,BrandA,Occasionally,2221.0,4,3,No,
+247,58,Female,BrandB,Occasionally,535.0,4,3,No,"Nice collection, but stock was low for popular sizes."
+248,50,Female,BrandA,Monthly,203.0,2,5,No,Product quality is okay but pricing is high.
+249,57,Male,BrandC,Occasionally,703.0,5,6,No,Had an issue with billing but resolved quickly.
+250,56,Female,BrandA,Weekly,802.0,2,5,No,Found better prices elsewhere.
+251,35,Female,BrandA,Occasionally,152.0,2,0,No,Delivery took too long and packaging was poor.
+252,57,Male,BrandC,Weekly,1123.0,4,7,Maybe,
+253,18,Female,BrandC,Occasionally,1769.0,4,9,Yes,Product quality is okay but pricing is high.
+254,28,Female,BrandA,Weekly,428.0,4,10,Yes,Delivery took too long and packaging was poor.
+255,45,Male,BrandC,Occasionally,1253.0,1,6,No,Overall experience was decent.
+256,42,Male,BrandA,Occasionally,1438.0,5,5,No,Overall experience was decent.
+257,40,Female,BrandA,Weekly,1150.0,3,5,No,Product quality is okay but pricing is high.
+258,48,Female,BrandA,Monthly,1311.0,2,4,No,"Nice collection, but stock was low for popular sizes."
+259,47,Male,BrandA,Occasionally,1318.0,5,5,No,Overall experience was decent.
+260,59,Male,BrandB,Monthly,712.0,5,8,Maybe,"Nice collection, but stock was low for popular sizes."
+261,52,Male,BrandA,Occasionally,2099.0,5,9,Yes,Overall experience was decent.
+262,24,Female,BrandA,Monthly,1949.0,5,8,Maybe,Overall experience was decent.
+263,33,Female,BrandB,Monthly,1914.0,4,9,Yes,"Loved the store, staff very helpful."
+264,43,Male,BrandB,Weekly,1808.0,4,7,Maybe,"Nice collection, but stock was low for popular sizes."
+265,19,Male,BrandA,Weekly,255.0,1,9,Yes,Delivery took too long and packaging was poor.
+266,18,,BrandB,Occasionally,1756.0,3,8,Maybe,"Happy with the purchase, value for money."
+267,29,Male,BrandA,Monthly,1593.0,3,9,Yes,Overall experience was decent.
+268,22,Male,BrandB,Monthly,278.0,3,7,Maybe,Delivery took too long and packaging was poor.
+269,54,Female,BrandB,Monthly,1071.0,4,7,Maybe,
+270,49,Female,BrandC,Monthly,1366.0,3,0,No,Delivery took too long and packaging was poor.
+271,26,Female,BrandA,Occasionally,2199.0,1,9,Yes,Not satisfied with customer support.
+272,58,Female,BrandA,Occasionally,1635.0,2,10,Yes,Product quality is okay but pricing is high.
+273,52,Male,BrandA,Monthly,681.0,4,4,No,
+274,36,Male,BrandA,Occasionally,2217.0,1,3,No,"Loved the store, staff very helpful."
+275,33,Female,BrandA,Occasionally,1226.0,5,1,No,
+276,20,Male,BrandC,Monthly,1046.0,3,7,Maybe,Not satisfied with customer support.
+277,37,Male,BrandA,Occasionally,1004.0,3,2,No,Found better prices elsewhere.
+278,41,Male,BrandA,Weekly,226.0,4,3,No,
+279,50,Male,BrandB,Weekly,1134.0,5,6,No,Found better prices elsewhere.
+280,41,Male,BrandA,Occasionally,1498.0,3,9,Yes,Had an issue with billing but resolved quickly.
+281,28,Male,BrandB,Monthly,969.0,4,8,Maybe,"Good service, will visit again."
+282,25,Male,BrandA,Occasionally,1452.0,4,1,No,Had an issue with billing but resolved quickly.
+283,53,Male,BrandA,Occasionally,681.0,3,2,No,"Good service, will visit again."
+284,55,Female,BrandA,Weekly,1115.0,5,3,No,"Happy with the purchase, value for money."
+285,57,Female,BrandA,Occasionally,1390.0,4,9,Yes,Found better prices elsewhere.
+286,37,Female,BrandC,Monthly,1314.0,4,0,No,Overall experience was decent.
+287,52,Female,BrandA,Monthly,237.0,5,6,No,Delivery took too long and packaging was poor.
+288,42,Female,BrandB,Monthly,937.0,5,1,No,"Happy with the purchase, value for money."
+289,52,Male,BrandA,Occasionally,2206.0,4,4,No,"Good service, will visit again."
+290,42,Female,BrandA,Daily,905.0,5,0,No,Found better prices elsewhere.
+291,46,Female,BrandC,Monthly,1209.0,4,2,No,
+292,35,Female,BrandA,Monthly,1148.0,4,1,No,Had an issue with billing but resolved quickly.
+293,63,Male,BrandB,Occasionally,2141.0,4,0,No,Found better prices elsewhere.
+294,35,Male,BrandC,Monthly,1974.0,4,6,No,"Good service, will visit again."
+295,19,Male,BrandB,Weekly,1685.0,2,4,No,
+296,52,Male,BrandC,Weekly,616.0,5,0,No,"Nice collection, but stock was low for popular sizes."
+297,33,Female,BrandA,Monthly,1416.0,5,5,No,"Happy with the purchase, value for money."
+298,58,Female,BrandA,Occasionally,1541.0,1,4,No,Delivery took too long and packaging was poor.
+299,53,Male,BrandA,Weekly,781.0,5,2,No,Not satisfied with customer support.
+300,50,Prefer not to say,BrandB,Weekly,678.0,2,6,No,Found better prices elsewhere.
+301,21,Female,BrandC,Occasionally,2223.0,3,10,Yes,Found better prices elsewhere.
+302,50,Male,BrandA,Daily,1020.0,4,9,Yes,Product quality is okay but pricing is high.
+303,31,Male,BrandB,Occasionally,2169.0,2,8,Maybe,Overall experience was decent.
+304,38,Male,BrandA,Monthly,1798.0,5,8,Maybe,
+305,37,Male,BrandB,Occasionally,1445.0,5,8,Maybe,Delivery took too long and packaging was poor.
+306,25,Male,BrandA,Weekly,1472.0,4,1,No,"Good service, will visit again."
+307,24,Male,BrandC,Daily,360.0,1,2,No,Delivery took too long and packaging was poor.
+308,20,,BrandB,Occasionally,1324.0,3,6,No,"Good service, will visit again."
+309,34,Male,BrandA,Occasionally,2050.0,4,4,No,Delivery took too long and packaging was poor.
+310,50,Female,BrandA,Occasionally,1609.0,5,1,No,
+311,29,Male,BrandA,Weekly,1293.0,4,2,No,Had an issue with billing but resolved quickly.
+312,39,Female,BrandA,Occasionally,2227.0,3,9,Yes,"Nice collection, but stock was low for popular sizes."
+313,39,Male,BrandA,Occasionally,1089.0,4,5,No,Not satisfied with customer support.
+314,63,Prefer not to say,BrandC,Monthly,828.0,4,6,No,Had an issue with billing but resolved quickly.
+315,47,Male,BrandB,Occasionally,1292.0,4,8,Maybe,Product quality is okay but pricing is high.
+316,55,Male,BrandB,Occasionally,1660.0,2,0,No,"Loved the store, staff very helpful."
+317,55,Prefer not to say,BrandA,Monthly,169.0,4,10,Yes,Product quality is okay but pricing is high.
+318,62,Female,BrandC,Weekly,1371.0,4,6,No,"Happy with the purchase, value for money."
+319,25,Female,BrandB,Monthly,1686.0,5,7,Maybe,Found better prices elsewhere.
+320,44,Male,BrandA,Weekly,1038.0,3,2,No,Delivery took too long and packaging was poor.
+321,44,Male,BrandB,Monthly,1864.0,4,3,No,
+322,51,Female,BrandB,Monthly,1585.0,5,9,Yes,Delivery took too long and packaging was poor.
+323,38,Female,BrandA,Weekly,2485.0,2,5,No,
+324,47,Female,BrandA,Monthly,750.0,5,9,Yes,Had an issue with billing but resolved quickly.
+325,50,Female,BrandA,Weekly,1698.0,4,6,No,Had an issue with billing but resolved quickly.
+326,45,Male,BrandA,Occasionally,590.0,1,3,No,Not satisfied with customer support.
+327,64,Female,BrandC,Occasionally,,3,7,Maybe,Not satisfied with customer support.
+328,50,Male,BrandC,Weekly,71.0,4,4,No,
+329,22,,BrandB,Occasionally,1523.0,1,0,No,"Good service, will visit again."
+330,36,Male,BrandA,Monthly,1311.0,4,3,No,"Nice collection, but stock was low for popular sizes."
+331,21,Female,BrandA,Weekly,913.0,3,2,No,
+332,52,Male,BrandB,Weekly,136.0,4,8,Maybe,"Nice collection, but stock was low for popular sizes."
+333,34,Male,BrandB,Monthly,786.0,1,7,Maybe,Found better prices elsewhere.
+334,61,Female,BrandA,Occasionally,1202.0,5,0,No,Overall experience was decent.
+335,45,Male,BrandB,Occasionally,1676.0,5,10,Yes,"Happy with the purchase, value for money."
+336,47,Female,BrandC,Weekly,1190.0,5,5,No,
+337,46,Male,BrandA,Weekly,1351.0,4,8,Maybe,"Nice collection, but stock was low for popular sizes."
+338,63,Female,BrandA,Monthly,974.0,2,6,No,Had an issue with billing but resolved quickly.
+339,23,Female,BrandB,Weekly,2250.0,4,3,No,Delivery took too long and packaging was poor.
+340,52,Male,BrandA,Weekly,589.0,1,0,No,Product quality is okay but pricing is high.
+341,58,Male,BrandA,Weekly,780.0,1,1,No,"Nice collection, but stock was low for popular sizes."
+342,54,Male,BrandA,Occasionally,905.0,3,4,No,"Nice collection, but stock was low for popular sizes."
+343,41,Male,BrandA,Occasionally,1526.0,3,10,Yes,Found better prices elsewhere.
+344,46,Prefer not to say,BrandB,Monthly,577.0,4,4,No,"Nice collection, but stock was low for popular sizes."
+345,63,Male,BrandB,Occasionally,1281.0,4,7,Maybe,"Loved the store, staff very helpful."
+346,48,Female,BrandA,Monthly,1299.0,3,5,No,Not satisfied with customer support.
+347,52,Male,BrandC,Monthly,783.0,3,7,Maybe,Not satisfied with customer support.
+348,50,Female,BrandC,Weekly,1398.0,5,1,No,Had an issue with billing but resolved quickly.
+349,38,Female,BrandC,Monthly,595.0,3,2,No,"Happy with the purchase, value for money."
+350,49,,BrandA,Occasionally,530.0,3,5,No,Overall experience was decent.
+351,40,Male,BrandA,Monthly,1260.0,2,9,Yes,Product quality is okay but pricing is high.
+352,50,Male,BrandC,Monthly,204.0,4,2,No,Found better prices elsewhere.
+353,20,Male,BrandB,Monthly,137.0,4,5,No,Delivery took too long and packaging was poor.
+354,35,Female,BrandA,Weekly,1520.0,2,5,No,"Nice collection, but stock was low for popular sizes."
+355,42,Female,BrandA,Occasionally,1829.0,1,1,No,"Good service, will visit again."
+356,59,Prefer not to say,BrandA,Monthly,920.0,4,6,No,
+357,48,Male,BrandC,Monthly,799.0,4,1,No,Delivery took too long and packaging was poor.
+358,20,Female,BrandB,Monthly,1803.0,3,5,No,Had an issue with billing but resolved quickly.
+359,57,Female,BrandA,Monthly,513.0,5,0,No,Overall experience was decent.
+360,63,Male,BrandA,Weekly,382.0,2,2,No,Found better prices elsewhere.
+361,41,Male,BrandB,Monthly,1625.0,3,1,No,Overall experience was decent.
+362,49,Female,BrandC,Weekly,1205.0,5,6,No,"Nice collection, but stock was low for popular sizes."
+363,64,Female,BrandA,Occasionally,1839.0,3,3,No,"Happy with the purchase, value for money."
+364,39,Female,BrandB,Occasionally,134.0,4,7,Maybe,Delivery took too long and packaging was poor.
+365,40,Male,BrandC,Occasionally,,3,5,No,Overall experience was decent.
+366,19,Female,BrandA,Monthly,1209.0,3,9,Yes,"Loved the store, staff very helpful."
+367,44,Male,BrandB,Monthly,1451.0,5,3,No,"Nice collection, but stock was low for popular sizes."
+368,59,Male,BrandA,Weekly,1708.0,3,4,No,Had an issue with billing but resolved quickly.
+369,19,Male,BrandB,Occasionally,1305.0,5,8,Maybe,Overall experience was decent.
+370,43,Female,BrandB,Weekly,1299.0,2,6,No,Product quality is okay but pricing is high.
+371,34,Female,BrandB,Monthly,966.0,2,9,Yes,"Happy with the purchase, value for money."
+372,57,Female,BrandB,Weekly,2155.0,1,8,Maybe,"Loved the store, staff very helpful."
+373,50,Male,BrandA,Weekly,538.0,4,6,No,Overall experience was decent.
+374,26,Female,BrandC,Monthly,1415.0,3,0,No,
+375,60,Male,BrandB,Weekly,607.0,5,7,Maybe,
+376,56,Female,BrandA,Occasionally,1521.0,3,3,No,
+377,46,Male,BrandB,Monthly,578.0,5,2,No,"Loved the store, staff very helpful."
+378,59,Male,BrandB,Daily,1646.0,2,6,No,"Nice collection, but stock was low for popular sizes."
+379,43,Male,BrandA,Monthly,1267.0,5,2,No,
+380,52,Male,BrandC,Daily,2247.0,4,7,Maybe,
+381,42,Female,BrandC,Weekly,1031.0,4,5,No,"Nice collection, but stock was low for popular sizes."
+382,41,Female,BrandA,Occasionally,1455.0,5,4,No,"Loved the store, staff very helpful."
+383,30,Male,BrandC,Weekly,732.0,4,3,No,"Happy with the purchase, value for money."
+384,24,,BrandA,Occasionally,1027.0,4,7,Maybe,"Nice collection, but stock was low for popular sizes."
+385,53,Male,BrandA,Daily,1263.0,2,7,Maybe,
+386,62,Female,BrandA,Weekly,284.0,1,0,No,
+387,37,Female,BrandC,Occasionally,349.0,5,8,Maybe,Had an issue with billing but resolved quickly.
+388,18,Female,BrandB,Monthly,1560.0,4,4,No,"Good service, will visit again."
+389,25,Male,BrandA,Weekly,1112.0,4,3,No,Had an issue with billing but resolved quickly.
+390,63,Female,BrandA,Monthly,844.0,3,5,No,Product quality is okay but pricing is high.
+391,33,Female,BrandB,Weekly,758.0,2,5,No,Product quality is okay but pricing is high.
+392,31,Male,BrandA,Occasionally,781.0,2,1,No,Found better prices elsewhere.
+393,29,Male,BrandC,Monthly,1268.0,4,7,Maybe,Had an issue with billing but resolved quickly.
+394,40,Female,BrandC,Occasionally,1467.0,3,6,No,Overall experience was decent.
+395,32,Female,BrandB,Occasionally,105.0,2,0,No,"Nice collection, but stock was low for popular sizes."
+396,45,Female,BrandC,Monthly,,3,4,No,Had an issue with billing but resolved quickly.
+397,51,Female,BrandA,Occasionally,2005.0,1,5,No,"Happy with the purchase, value for money."
+398,19,Female,BrandC,Monthly,248.0,4,3,No,"Good service, will visit again."
+399,49,Male,BrandB,Occasionally,1852.0,3,1,No,Product quality is okay but pricing is high.
+400,40,Male,BrandB,Weekly,1833.0,4,3,No,Delivery took too long and packaging was poor.
+401,39,Male,BrandA,Monthly,1200.0,3,0,No,"Happy with the purchase, value for money."
+402,42,Female,BrandC,Monthly,422.0,3,6,No,"Loved the store, staff very helpful."
+403,39,Male,BrandA,Monthly,1809.0,1,1,No,Overall experience was decent.
+404,39,Female,BrandA,Monthly,1055.0,1,1,No,
+405,59,Female,BrandA,Occasionally,1529.0,3,8,Maybe,
+406,23,Female,BrandB,Daily,2532.0,3,4,No,Had an issue with billing but resolved quickly.
+407,32,Male,BrandB,Weekly,1351.0,4,1,No,"Good service, will visit again."
+408,60,Female,BrandB,Occasionally,650.0,3,10,Yes,"Happy with the purchase, value for money."
+409,54,Male,BrandC,Monthly,999.0,4,8,Maybe,"Nice collection, but stock was low for popular sizes."
+410,50,Female,BrandA,Occasionally,,5,8,Maybe,
+411,25,Male,BrandB,Occasionally,1460.0,4,0,No,"Happy with the purchase, value for money."
+412,61,Male,BrandA,Occasionally,716.0,1,10,Yes,Had an issue with billing but resolved quickly.
+413,61,Female,BrandC,Occasionally,916.0,3,2,No,Delivery took too long and packaging was poor.
+414,22,Male,BrandC,Weekly,429.0,2,3,No,Overall experience was decent.
+415,56,Male,BrandB,Weekly,1121.0,2,6,No,"Loved the store, staff very helpful."
+416,21,Female,BrandB,Occasionally,,5,9,Yes,"Loved the store, staff very helpful."
+417,23,Female,BrandA,Monthly,461.0,2,3,No,
+418,62,Female,BrandA,Daily,1356.0,3,1,No,"Happy with the purchase, value for money."
+419,49,Female,BrandC,Monthly,1173.0,4,6,No,Had an issue with billing but resolved quickly.
+420,47,Female,BrandA,Occasionally,741.0,4,5,No,"Nice collection, but stock was low for popular sizes."
+421,64,Male,BrandA,Monthly,2417.0,4,2,No,
+422,52,,BrandA,Monthly,1775.0,1,5,No,Found better prices elsewhere.
+423,57,Male,BrandC,Monthly,542.0,3,10,Yes,Overall experience was decent.
+424,33,Female,BrandA,Weekly,1703.0,4,5,No,"Nice collection, but stock was low for popular sizes."
+425,30,Female,BrandA,Monthly,1947.0,1,4,No,
+426,59,Male,BrandB,Monthly,1279.0,3,3,No,
+427,47,Male,BrandC,Weekly,1417.0,1,9,Yes,Not satisfied with customer support.
+428,36,Female,BrandA,Occasionally,1403.0,1,0,No,"Good service, will visit again."
+429,34,Male,BrandA,Monthly,101.0,3,9,Yes,
+430,36,Female,BrandA,Occasionally,1088.0,2,5,No,Had an issue with billing but resolved quickly.
+431,45,Female,BrandA,Occasionally,1057.0,4,1,No,"Good service, will visit again."
+432,43,Female,BrandA,Weekly,2058.0,4,2,No,"Happy with the purchase, value for money."
+433,54,Male,BrandB,Monthly,1400.0,5,7,Maybe,"Loved the store, staff very helpful."
+434,43,Female,BrandB,Monthly,1021.0,2,9,Yes,"Nice collection, but stock was low for popular sizes."
+435,40,Female,BrandB,Occasionally,1146.0,2,5,No,"Loved the store, staff very helpful."
+436,26,Female,BrandA,Weekly,1814.0,2,2,No,Found better prices elsewhere.
+437,29,Female,BrandC,Monthly,1089.0,4,6,No,"Nice collection, but stock was low for popular sizes."
+438,18,Female,BrandA,Monthly,781.0,4,3,No,"Nice collection, but stock was low for popular sizes."
+439,18,Female,BrandC,Weekly,1035.0,1,8,Maybe,Not satisfied with customer support.
+440,64,Male,BrandB,Weekly,1764.0,5,4,No,Product quality is okay but pricing is high.
+441,51,Female,BrandA,Monthly,1498.0,1,2,No,Not satisfied with customer support.
+442,49,Female,BrandB,Occasionally,1227.0,4,1,No,"Nice collection, but stock was low for popular sizes."
+443,42,Male,BrandA,Monthly,1315.0,4,10,Yes,Found better prices elsewhere.
+444,57,Female,BrandB,Monthly,864.0,5,1,No,Overall experience was decent.
+445,62,Female,BrandA,Monthly,1084.0,4,2,No,
+446,18,Female,BrandA,Occasionally,802.0,5,1,No,
+447,33,Male,BrandC,Weekly,1023.0,3,3,No,Product quality is okay but pricing is high.
+448,56,Male,BrandA,Occasionally,2008.0,5,1,No,Found better prices elsewhere.
+449,22,Prefer not to say,BrandC,Weekly,553.0,1,9,Yes,"Good service, will visit again."
+450,39,Female,BrandA,Monthly,787.0,5,8,Maybe,Overall experience was decent.
+451,46,Male,BrandB,Weekly,447.0,4,1,No,"Good service, will visit again."
+452,20,Female,BrandB,Weekly,,5,8,Maybe,Not satisfied with customer support.
+453,29,Female,BrandB,Monthly,1088.0,3,5,No,"Nice collection, but stock was low for popular sizes."
+454,43,Female,BrandA,Weekly,829.0,4,0,No,"Good service, will visit again."
+455,33,Female,BrandA,Occasionally,2257.0,4,3,No,Overall experience was decent.
+456,54,Male,BrandA,Daily,1030.0,4,0,No,
+457,39,Male,BrandA,Monthly,1974.0,1,5,No,"Nice collection, but stock was low for popular sizes."
+458,46,Male,BrandB,Monthly,1781.0,1,3,No,
+459,31,Female,BrandC,Daily,1075.0,2,2,No,Had an issue with billing but resolved quickly.
+460,45,Male,BrandC,Weekly,2466.0,2,2,No,"Loved the store, staff very helpful."
+461,22,Male,BrandB,Monthly,1361.0,5,8,Maybe,"Good service, will visit again."
+462,64,Male,BrandB,Monthly,2108.0,2,5,No,Product quality is okay but pricing is high.
+463,47,Female,BrandB,Monthly,2038.0,5,8,Maybe,Product quality is okay but pricing is high.
+464,63,Female,BrandA,Monthly,1449.0,3,4,No,Product quality is okay but pricing is high.
+465,22,Male,BrandC,Monthly,1651.0,2,1,No,"Loved the store, staff very helpful."
+466,29,Male,BrandB,Daily,1574.0,4,7,Maybe,
+467,33,Female,BrandB,Monthly,513.0,4,4,No,"Happy with the purchase, value for money."
+468,43,Male,BrandA,Occasionally,1234.0,3,1,No,"Nice collection, but stock was low for popular sizes."
+469,43,Male,BrandA,Monthly,1845.0,4,3,No,Delivery took too long and packaging was poor.
+470,38,Male,BrandA,Monthly,2116.0,4,8,Maybe,"Loved the store, staff very helpful."
+471,56,Male,BrandC,Monthly,768.0,2,3,No,Had an issue with billing but resolved quickly.
+472,53,Male,BrandB,Occasionally,1517.0,5,3,No,"Loved the store, staff very helpful."
+473,50,Female,BrandA,Occasionally,1291.0,5,1,No,"Happy with the purchase, value for money."
+474,47,Male,BrandC,Monthly,1129.0,4,5,No,Found better prices elsewhere.
+475,54,Female,BrandA,Occasionally,1414.0,2,10,Yes,Overall experience was decent.
+476,40,Male,BrandA,Weekly,1331.0,4,1,No,"Good service, will visit again."
+477,27,Female,BrandA,Daily,1525.0,1,6,No,"Happy with the purchase, value for money."
+478,22,Female,BrandB,Occasionally,2065.0,1,2,No,Had an issue with billing but resolved quickly.
+479,53,Male,BrandC,Occasionally,1670.0,3,2,No,"Nice collection, but stock was low for popular sizes."
+480,51,Female,BrandA,Weekly,1386.0,3,4,No,"Nice collection, but stock was low for popular sizes."
+481,48,Male,BrandC,Weekly,2319.0,5,2,No,Not satisfied with customer support.
+482,27,Prefer not to say,BrandA,Daily,1866.0,4,1,No,Overall experience was decent.
+483,36,Male,BrandC,Weekly,1145.0,4,9,Yes,Not satisfied with customer support.
+484,49,Male,BrandB,Occasionally,470.0,3,8,Maybe,Delivery took too long and packaging was poor.
+485,18,Male,BrandC,Monthly,607.0,3,1,No,Delivery took too long and packaging was poor.
+486,22,Prefer not to say,BrandA,Monthly,1760.0,3,10,Yes,Found better prices elsewhere.
+487,62,Female,BrandC,Monthly,822.0,5,1,No,
+488,21,Female,BrandB,Daily,595.0,1,7,Maybe,Found better prices elsewhere.
+489,33,Male,BrandA,Weekly,745.0,5,8,Maybe,"Loved the store, staff very helpful."
+490,41,Female,BrandC,Monthly,788.0,4,6,No,"Good service, will visit again."
+491,33,Male,BrandA,Occasionally,1710.0,3,2,No,
+492,19,Female,BrandC,Occasionally,1106.0,4,8,Maybe,Not satisfied with customer support.
+493,45,Male,BrandA,Daily,377.0,3,2,No,"Nice collection, but stock was low for popular sizes."
+494,49,Male,BrandB,Occasionally,1219.0,5,4,No,
+495,44,Male,BrandB,Occasionally,1333.0,5,8,Maybe,"Good service, will visit again."
+496,37,Male,BrandA,Occasionally,912.0,3,2,No,Found better prices elsewhere.
+497,41,Female,BrandA,Monthly,1894.0,3,6,No,"Loved the store, staff very helpful."
+498,29,Male,BrandA,Monthly,947.0,4,0,No,
+499,52,Female,BrandA,Monthly,1865.0,5,3,No,"Happy with the purchase, value for money."
+500,50,Male,BrandA,Weekly,1558.0,2,3,No,Found better prices elsewhere.
