@@ -1,0 +1,4 @@
+To-Do:
+- Add word-cloud and more advanced sentiment analysis (maybe use VADER)
+- Segment NPS by brand and visit frequency
+- Add automated reporting (PDF export) later
